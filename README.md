@@ -5,7 +5,7 @@
 ## Skills
 
 * Java | SQL | Spring | JavaScript | HTML | CSS | Angular 
-* IoT | Robotica | microcontroller | Arduino
+* IoT | Robotica | Microcontroller | Arduino
 
 ## Contact 
 
